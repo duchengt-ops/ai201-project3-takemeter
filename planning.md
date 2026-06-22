@@ -4,9 +4,9 @@
 
 ## 1. Community
 
-**Chosen community:** r/nba (Reddit)
+**Chosen community:** NBA Related Comments 
 
-r/nba is one of the largest sports communities on Reddit, with millions of active members who post constantly about games, players, trades, and league news. The discourse is highly varied: the same subreddit produces detailed statistical breakdowns, wild GOAT-debate hot takes, and pure in-the-moment reactions — sometimes all in the same game thread. This range makes it an ideal fit for a classification task, because the differences between post types are real and meaningful to the community itself. NBA fans regularly call out bad takes, praise good analysis, and dismiss pure emotional reactions — they already have informal mental categories that this classifier formalizes.
+r/nba,  is one of the largest sports communities on Reddit, with millions of active members who post constantly about games, players, trades, and league news. The discourse is highly varied: the same subreddit produces detailed statistical breakdowns, wild GOAT-debate hot takes, and pure in-the-moment reactions — sometimes all in the same game thread. This range makes it an ideal fit for a classification task, because the differences between post types are real and meaningful to the community itself. NBA fans regularly call out bad takes, praise good analysis, and dismiss pure emotional reactions — they already have informal mental categories that this classifier formalizes.
 
 **Why it works for classification:**
 - Posts vary enormously in structure and substance
